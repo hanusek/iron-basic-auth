@@ -1,0 +1,7 @@
+[package]
+name = "iron-basic-auth"
+version = "0.0.1"
+authors = ["Michał Hanusek <mhanusek@o2.pl>"]
+
+[dependencies]
+iron = "*"
